@@ -16,7 +16,7 @@
 ## product
 - [sushi_twitter](https://github.com/programmerMOT/sushi_twitter): 寿司をふぁぼる
 - [RitsLibrarySearch](https://github.com/programmerMOT/RitsLibrarySearch): 某大学の図書館検索を文字列とかから行う
-- [repo_url_expand_chrome_extension](https://github.com/programmerMOT/repo_url_expand_chrome_extension): Bitbucketとかでリポジトリ一覧の時にリポジトリURLを出す
+- [repo\_url\_expand\_chrome\_extension](https://github.com/programmerMOT/repo_url_expand_chrome_extension): Bitbucketとかでリポジトリ一覧の時にリポジトリURLを出す
 - [twitterbot](https://github.com/programmerMOT/twitterbot): ruboty-twitterを用いたtwitterbot
 - [ruboty-http_curl](https://github.com/programmerMOT/ruboty-http_curl): curlをするだけのruboty plugin
 - [rits_sso_auto_login](https://github.com/programmerMOT/rits_sso_auto_login): autoログインする
