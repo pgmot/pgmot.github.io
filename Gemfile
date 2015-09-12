@@ -16,3 +16,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "redcarpet"
 gem "middleman-minify-html"
 gem 'middleman-deploy', '~> 1.0'
+gem "rake"
