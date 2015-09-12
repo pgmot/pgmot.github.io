@@ -1,3 +1,27 @@
 
-# test
-test message
+# mot page
+- twitter: [@programmerMOT](https://twitter.com/programmerMOT)
+- hatena blog(雑記): [雑な話](http://programmermot.hatenablog.com)
+- hatena blog(技術): [mot works](http://pgmot.hatenablog.com)
+- github: [programmerMOT](https://github.com/programmerMOT)
+- gist: [programmerMOT Gist](https://gist.github.com/programmerMOT)
+- wishlist: [ほしい](http://www.amazon.co.jp/registry/wishlist/3DXESHIQTKZY3)
+- rubygems: [mot](https://rubygems.org/profiles/mot)
+- NNID: programmerMOT
+- Qiita: [programmerMOT](http://qiita.com/programmerMOT)
+
+## contact
+- [Twitter](https://twitter.com/programmerMOT)にどうぞ
+
+## product
+- [sushi_twitter](https://github.com/programmerMOT/sushi_twitter): 寿司をふぁぼる
+- [RitsLibrarySearch](https://github.com/programmerMOT/RitsLibrarySearch): 某大学の図書館検索を文字列とかから行う
+- [repo_url_expand_chrome_extension](https://github.com/programmerMOT/repo_url_expand_chrome_extension): Bitbucketとかでリポジトリ一覧の時にリポジトリURLを出す
+- [twitterbot](https://github.com/programmerMOT/twitterbot): ruboty-twitterを用いたtwitterbot
+- [ruboty-http_curl](https://github.com/programmerMOT/ruboty-http_curl): curlをするだけのruboty plugin
+- [rits_sso_auto_login](https://github.com/programmerMOT/rits_sso_auto_login): autoログインする
+
+## initial
+```
+$ curl -LSfs https://raw.githubusercontent.com/programmerMOT/dotfiles/master/install.sh | bash
+```
