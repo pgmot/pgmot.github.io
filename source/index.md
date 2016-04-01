@@ -20,3 +20,4 @@
 - [twitterbot](https://github.com/programmerMOT/twitterbot): ruboty-twitterを用いたtwitterbot
 - [ruboty-http\_curl](https://github.com/programmerMOT/ruboty-http_curl): curlをするだけのruboty plugin
 - [rits\_sso\_auto\_login](https://github.com/programmerMOT/rits_sso_auto_login): autoログインする
+- [dokokara](https://dokokara.app.pgmot.com/): どこからのアクセスか見える(ソース: [dokokara](https://github.com/programmerMOT/dokokara))
