@@ -20,8 +20,3 @@
 - [twitterbot](https://github.com/programmerMOT/twitterbot): ruboty-twitterを用いたtwitterbot
 - [ruboty-http\_curl](https://github.com/programmerMOT/ruboty-http_curl): curlをするだけのruboty plugin
 - [rits\_sso\_auto\_login](https://github.com/programmerMOT/rits_sso_auto_login): autoログインする
-
-## initial
-```
-$ curl -LSfs https://raw.githubusercontent.com/programmerMOT/dotfiles/master/install.sh | bash
-```
