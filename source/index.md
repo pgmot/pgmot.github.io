@@ -1,6 +1,6 @@
 
 # mot page
-- twitter: [@programmerMOT](https://twitter.com/programmerMOT)
+- twitter: [@pg_mot](https://twitter.com/pg_mot)
 - hatena blog(雑記): [雑な話](http://programmermot.hatenablog.com)
 - hatena blog(技術): [mot works](http://pgmot.hatenablog.com)
 - github: [programmerMOT](https://github.com/programmerMOT)
@@ -11,7 +11,7 @@
 - Qiita: [programmerMOT](http://qiita.com/programmerMOT)
 
 ## contact
-- [Twitter](https://twitter.com/programmerMOT)にどうぞ
+- [Twitter](https://twitter.com/pg_mot)にどうぞ
 
 ## product
 - [sushi\_twitter](https://github.com/programmerMOT/sushi_twitter): 寿司をふぁぼる
