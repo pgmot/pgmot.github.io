@@ -2,13 +2,13 @@
 # mot page
 - twitter: [@pg_mot](https://twitter.com/pg_mot)
 - hatena blog(雑記): [雑な話](http://programmermot.hatenablog.com)
+- Qiita: [pg_mot](http://qiita.com/pg_mot)
 - hatena blog(技術): [mot works](http://pgmot.hatenablog.com)
 - github: [programmerMOT](https://github.com/programmerMOT)
 - gist: [programmerMOT Gist](https://gist.github.com/programmerMOT)
 - wishlist: [ほしい](http://www.amazon.co.jp/registry/wishlist/3DXESHIQTKZY3)
 - rubygems: [mot](https://rubygems.org/profiles/mot)
 - NNID: programmerMOT
-- Qiita: [programmerMOT](http://qiita.com/programmerMOT)
 
 ## contact
 - [Twitter](https://twitter.com/pg_mot)にどうぞ
