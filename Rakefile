@@ -28,9 +28,9 @@ task :build do
   puts status ? green("OK") : red("FAILED")
 end
 
-desc "Deploy website via git"
-task :deploy => [:build] do
-  puts "## Deploying website via git to github pages"
-  status = system("middleman deploy")
-  puts status ? green("OK") : red("FAILED")
-end
+# desc "Deploy website via git"
+# task :deploy => [:build] do
+#   puts "## Deploying website via git to github pages"
+#   status = system("middleman deploy")
+#   puts status ? green("OK") : red("FAILED")
+# end
