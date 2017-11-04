@@ -9,6 +9,8 @@
 - wishlist: [ほしい](http://www.amazon.co.jp/registry/wishlist/3DXESHIQTKZY3)
 - rubygems: [mot](https://rubygems.org/profiles/mot)
 - NNID: programmerMOT
+- Nintendo Switch: SW-4493-1768-7007
+- [Icon Image](https://pgmot.com/icon.png)
 
 ## contact
 - [Twitter](https://twitter.com/pg_mot)にどうぞ
